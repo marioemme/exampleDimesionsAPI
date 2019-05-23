@@ -1,0 +1,19 @@
+{
+  "id": "3e5e3232-5402-44e1-86d4-135f9902fc20",
+  "name": "dimensionAPItest",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
